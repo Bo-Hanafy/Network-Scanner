@@ -10,4 +10,4 @@ This is a Python-based network scanning tool that identifies devices on your net
 ## How to Use
 1. Run the tool with Python:
    ```bash
- sudo python3 network_scanner.py
+    sudo python3 network_scanner.py
